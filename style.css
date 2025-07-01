@@ -8,7 +8,7 @@ body {
 }
 
 .calculadora {
-  background: #fff;
+  background: #151419;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
@@ -34,7 +34,7 @@ button {
   padding: 15px;
   font-size: 1.1em;
   border: none;
-  background: #eee;
+  background: #878787;
   border-radius: 5px;
   cursor: pointer;
   transition: background 0.2s;
@@ -45,15 +45,15 @@ button:hover {
 }
 
 button.operador {
-  background: #ffc107;
+  background: #f56e0f;
 }
 
 button.igual {
-  background: #28a745;
+  background: #fbfbfb;
   color: white;
 }
 
 button.limpar {
-  background: #dc3545;
+  background: #f56e0f;
   color: white;
   }
