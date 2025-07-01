@@ -51,6 +51,7 @@ button.operador {
 button.igual {
   background: #28a745;
   color: white;
+  grid-row: span 2;
 }
 
 button.limpar {
